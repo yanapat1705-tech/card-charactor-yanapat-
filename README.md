@@ -1,2 +1,2 @@
-## 🏹 นักธนู (Archer/Ranger)
-<img width="226" height="338" alt="3" src="https://github.com/user-attachments/assets/f9747609-b269-436d-a1c9-74a510f99ffa" />
+## 🗡️ มือสังหาร (Assassin/Rogue)
+<img width="219" height="346" alt="4" src="https://github.com/user-attachments/assets/0e504518-539b-4f49-9b1f-b7981c953fea" />
