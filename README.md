@@ -1,2 +1,2 @@
-## 🗡️ มือสังหาร (Assassin/Rogue)
-<img width="219" height="346" alt="4" src="https://github.com/user-attachments/assets/0e504518-539b-4f49-9b1f-b7981c953fea" />
+## ✨ นักบวช (Priest/Cleric)
+<img width="229" height="348" alt="5" src="https://github.com/user-attachments/assets/ae5c503b-5dee-4780-9ef7-8c89611cf983" />
