@@ -1,2 +1,2 @@
-## 🔮 นักเวท (Mage/Wizard)
-<img width="229" height="351" alt="2" src="https://github.com/user-attachments/assets/55ffe521-0bea-4c9d-8768-c0bd36131392" />
+## 🏹 นักธนู (Archer/Ranger)
+<img width="226" height="338" alt="3" src="https://github.com/user-attachments/assets/f9747609-b269-436d-a1c9-74a510f99ffa" />
